@@ -1,0 +1,40 @@
+
+
+***User1 and User2 Chat Log:
+
+User1: Hey, how are you doing?
+
+User2: I am good, thanks! How about you?
+
+User1: Doing well. Have you finished the project?
+
+User2: Almost, just some tweaks left.
+
+User1: Great to hear! Need any help?
+
+User2: I might need some feedback.
+
+User1: Sure, send it over.
+
+User2: Okay, sending it now.
+
+User1: Got it. Let me check.
+
+User2: Thanks!
+
+User1: No problem!
+
+User2: What do you think about it?
+
+User1: It looks good. Just a minor change needed.
+
+User2: Great, I will fix it.
+
+User1: Awesome. Anything else?
+
+User2: Nope, that’s it. Thanks again!
+
+User1: You’re welcome. Talk later!
+
+User2: Sure. Bye!
+
